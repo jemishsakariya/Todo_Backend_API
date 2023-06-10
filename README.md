@@ -15,3 +15,10 @@ To run the backend API locally, follow these steps:
 4. Start the server: `npm start` \
 &emsp; &emsp;&emsp; OR
 4. Start the nodemon server: `npm run dev`
+
+# Testing the API with Postman
+You can test the API endpoints using Postman. Here are the steps:
+
+1. Open Postman or your preferred API testing tool.
+2. Set the API base URL to http://localhost:3000 or the appropriate URL where the server is running.
+3. Send requests to the API endpoints listed in the Postman collection to perform CRUD operations on todos.
